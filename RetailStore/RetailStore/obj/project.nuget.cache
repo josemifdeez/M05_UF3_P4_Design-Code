@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qNZelthZuIDUsvYwoGDn4cl3TE+FX+7h8qB13LYI8SGv9d346KDbJAGXN0Gb5keYwmQExp6OwoMR6rFxgmsQQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josem\\Desktop\\DAM\\M05 UF3\\RetailStore\\RetailStore - Code\\RetailStore\\RetailStore\\RetailStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
